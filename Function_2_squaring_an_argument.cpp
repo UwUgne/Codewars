@@ -1,4 +1,4 @@
 int square(int a)
 {
-	return a * a;
+return a * a;
 }
